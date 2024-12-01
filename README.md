@@ -48,4 +48,4 @@ We used three datasets in this work and you can download the datasets from the f
 
 To train your own demonstration selector, use the trainer ```bash src/run_CLTrain.sh```
 
-If you already have a trained demonstration selector in ```src/simcse_models/```, simply run ```python src/LLM_R2.py``` at inference time
+If you already have a trained demonstration selector in ```src/simcse_models/```, cd into LLM-R2/src and simply run ```python LLM_R2.py``` at inference time
